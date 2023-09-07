@@ -71,7 +71,7 @@
       </div>
     </div>
     <div class="col-span-12 md:col-span-6 w-11/12 mx-auto hidden md:flex">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScc2xXiXmhUNTMUbnoWDpkhYI5RYu9_XNxuid2tBxaLeXZYtmh8Zi4acGfK40XPicXyhA&usqp=CAU" class="max-w-full" alt="contract">
+      <img src="https://contractbook-home-amt.netlify.app/_nuxt/hero1.d5fab3ed.jpg" class="max-w-full" alt="contract">
     </div>
   </div>
   <div class="mt-10 md:mt-2">
@@ -84,7 +84,7 @@
       Say goodbye to printers, paper and time wasted on creating, signing and storing your contacts. No more printer frustations. Contractbook makes it all digital and hassle-free.
     </p>
     <div class="my-5 md:my-10">
-      <img src="https://www.qualyval.com/images/banner.webp" class="w-full" alt="contract">
+      <img src="https://contractbook-home-amt.netlify.app/_nuxt/fullimg.6a2e8d65.png" class="w-full" alt="contract">
     </div>
     <div class="flex justify-center">
       <button class="py-2.5 px-5 text-violet-600 hover:text-violet-700 font-semibold border border-violet-500 hover:border-violet-600">
